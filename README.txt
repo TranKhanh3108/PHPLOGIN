@@ -1,0 +1,1 @@
+DATABASE login TABLE=user id,username,password
